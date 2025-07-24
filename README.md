@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Khushi Pal
 
-## 🚀 About Me
+## About Me
 
-🎓 I'm a 4th-year B.Tech Computer Science & Engineering student at Amity University.  
-💡 Passionate about **Web Development**, **AI/ML**, and **UX/UI**.  
-🔭 Currently working on real-time **ASL Hand Gesture Recognition** using OpenCV & MediaPipe.  
-🌱 Always learning — from **Front-End Dev** to **UX/UI** to **AI/ML**.  
-📫 Reach me at: [palkhushi033@gmail.com](mailto:palkhushi033@gmail.com)  
+ I'm a 4th-year B.Tech Computer Science & Engineering student at Amity University.  
+ Passionate about **Web Development**, **AI/ML**, and **UX/UI**.  
+ Currently working on real-time **ASL Hand Gesture Recognition** using OpenCV & MediaPipe.  
+ Always learning — from **Front-End Dev** to **UX/UI** to **AI/ML**.  
+ Reach me at: [palkhushi033@gmail.com](mailto:palkhushi033@gmail.com)  
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishuk7&show_icons=true&theme=tokyonight" height="180px" />
@@ -35,14 +35,14 @@
 
 ---
 
-## 📌 Notable Projects
+## Notable Projects
 
-- 🎯 **ASL Real-time Translator** – Converts hand signs to text using OpenCV & MediaPipe. 
-- 💹 **E-commerce Web App** – Add to cart, total price calc, filter/sort features.
+- **ASL Real-time Translator** – Converts hand signs to text using OpenCV & MediaPipe. 
+- **E-commerce Web App** – Add to cart, total price calc, filter/sort features.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - LinkedIn - https://www.linkedin.com/in/khushi-pal-463774255/
 - Email - palkhushi033@gmail.com
